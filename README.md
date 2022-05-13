@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 Personal Website [https://clevinwilson.github.io/ClevinMWilson/](https://clevinwilson.github.io/ClevinMWilson/)
- - 📄 Know about my experiences  [Linkedin: ClevinMWilson](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clevin-m-wilson-9800b51a9/)
+ - 📄 Know about my experiences ![Linkedin: Clevin](https://img.shields.io/badge/-ClevinMWilson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)
 - 📫 How to reach me **clevinmwilson@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
