@@ -24,9 +24,9 @@
 
 
 
-<a href="https://github.com/clevinwilson">
+<!-- <a href="https://github.com/clevinwilson">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevinwilson&theme=tokyonight&hide_langs_below=1" />
-</a>
+</a> -->
 
 
 <a href="https://github.com/clevinwilson">
