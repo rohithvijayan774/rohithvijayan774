@@ -32,7 +32,7 @@
 ### Stats
 
 
-| <a href="https://github.com/clevinwilsons"><img align="center" src="https://github-readme-stats.vercel.app/api?username=clevinwilson&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true"  alt="Clevin's github stats" /></a>|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevinwilson&layout=compact&theme=midnight-purple&hide_border=True" /></a> |
+| <a href="https://github.com/clevinwilson"><img align="center" src="https://github-readme-stats.vercel.app/api?username=clevinwilson&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true"  alt="Clevin's github stats" /></a>|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevinwilson&layout=compact&theme=midnight-purple&hide_border=True" /></a> |
 | ------------- | ------------- |
 
 
