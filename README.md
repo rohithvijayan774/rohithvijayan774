@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/rohith-vijayan-a-a724311a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gladson m.s" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rohith.vijayan.98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gladson saji" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rohith__vijayan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gladsonsaji" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCTKrVbzpjlhHIUlbQiz-3cQ/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gladson ms" height="30" width="40" /></a>
+<a href="https://twitter.com/RohithVijayan77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gladson ms" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5617" height="30" width="40" /></a>
 </p>
 
