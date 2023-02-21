@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clevinwilson&label=Profile%20views&color=0e75b6&style=flat" alt="clevinwilson" /> </p>
 
-- 🌱 I’m currently learning **React JS**
-- 👨‍💻 Personal Website [https://clevinwilson.github.io/ClevinMWilson/](https://clevinwilson.github.io/ClevinMWilson/)
+- 🌱 I’m currently learning **Flutter State Management**
+- 👨‍💻 Personal Website [https://rohithvijayan774.github.io/Personal_Website/](https://rohithvijayan774.github.io/Personal_Website/)
  - 📄 Know about my experiences [![Linkedin: Clevin](https://img.shields.io/badge/-ClevinMWilson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/clevin-m-wilson-9800b51a9/)
-- 📫 How to reach me **clevinmwilson@gmail.com**
+- 📫 How to reach me **rohithvijayan774@gmail.com**
 - Fun Fact: I ❤️ Football.
 
 
